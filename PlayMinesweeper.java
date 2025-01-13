@@ -4,8 +4,8 @@
  * placeMines(), fillGrid(), openSquare(), placeFlag(), 
  * checkWinCondition(), chooseDifficulty(), playRandom()
  * 
- * @author Jessica de Brito
- * @author Jeremy Hui
+ * @author Tanisha Solanki
+ * @author Tanisha Solanki
  */
 
 public class PlayMinesweeper {
